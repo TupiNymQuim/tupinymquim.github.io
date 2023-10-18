@@ -46,4 +46,4 @@ The organization is made up of students of different levels of knowledge, but th
   <li>Gabriel Correia</li>
 </ul>
 
-## Reach us [**here](https://t.me/+jO97cIbMEbowZWRh)**
+## Reach us [here](https://t.me/+jO97cIbMEbowZWRh)
