@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Nym Squad
 
 ![logo-black.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/800f4901-c0ef-4400-908b-546a48c1aff1/c9242b39-4b10-4038-8563-7ca44fd80bc6/logo-black.png)
