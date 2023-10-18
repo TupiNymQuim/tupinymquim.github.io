@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 <!--{{ content }}-->
   <h3>TupiNymQuim is an organization of 42 students in Brazil focused on developing projects for the Nym ecosystem.</h3>
