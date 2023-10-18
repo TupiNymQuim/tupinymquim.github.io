@@ -26,7 +26,7 @@ E: Harry Halpin é o CEO e CO-Founder da Nym
 
 R: 1
 
-E: O Sphinx encripta os pacotes de forma semelhante, leia mais em https://www.freehaven.net/anonbib/cache/DBLP:conf/sp/DanezisG09.pdf ou https://blog.nymtech.net/sphinx-tl-dr-the-data-packet-that-can-anonymize-bitcoin-and-the-internet-18d152c6e4dc
+E: O Sphinx encripta os pacotes de forma semelhante, leia mais em [Freehaven](https://www.freehaven.net/anonbib/cache/DBLP:conf/sp/DanezisG09.pdf) ou [NymTech](https://blog.nymtech.net/sphinx-tl-dr-the-data-packet-that-can-anonymize-bitcoin-and-the-internet-18d152c6e4dc/)
 
 ### Quarta Questão
 ![Question 4](/assets/images/Question4.png)
@@ -40,14 +40,14 @@ E: Por conta dos pacotes falsos, os invasores não sabem se o pacote é de um us
 
 R: 3
 
-E: O TOR é passível de ataques nos fluxos de trafégo. Segue a lista de ataques conhecidos na rede TOR https://www.softwall.com.br/blog/ataques-desanonimizacao-contra-rede-tor/
+E: O TOR é passível de ataques nos fluxos de trafégo. Segue a lista de ataques conhecidos na rede [TOR](https://www.softwall.com.br/blog/ataques-desanonimizacao-contra-rede-tor/)
 
 ### Sexta Questão
 ![Question 6](/assets/images/Question6.png)
 
 R: 1
 
-E: O [Artigo]([https://archive.nytimes.com/thelede.blogs.nytimes.com/2013/03/15/new-twist-in-british-spys-case-unravels-in-u-s) foi publicado pela New York Times em 2013 falando sobre a espionagem britânica.
+E: O [Artigo]([https://archive.nytimes.com/thelede.blogs.nytimes.com/2013/03/15/new-twist-in-british-spys-case-unravels-in-u-s/) foi publicado pela New York Times em 2013 falando sobre a espionagem britânica.
 
 ### Sétima Questão
 ![Question 7](/assets/images/Question7.png)
@@ -82,7 +82,7 @@ E: Forjar tráfico não é uma característica da Mix Net
 
 R: 5
 
-E: A MixNet através dos gateways é responsável pela criptografia ponto-a-ponto e pelo roteamendo dos pacotes, leia mais [aqui](https://medium.com/@eugenenesfield/gateways-the-guardians-of-the-nym-mixnet-f3cada33bb8a)
+E: A MixNet através dos gateways é responsável pela criptografia ponto-a-ponto e pelo roteamendo dos pacotes, leia mais [aqui](https://medium.com/@eugenenesfield/gateways-the-guardians-of-the-nym-mixnet-f3cada33bb8a/)
 
 ### Décima Segunda Questão
 ![Question 12](/assets/images/Question12.png)
