@@ -19,7 +19,7 @@ We are committed to share our knowledge of Nym’s technologies and facilitate t
 
 ## Main focus points of the Nym Squad
 
-<ul>
+<ul text-align="center">
 <li>Promote knowledge about Nym technology</li>
 <li>Develop innovative projects for the Nym ecosystem</li>
 <li>Connect 42 students interested in internet privacy and security</li>
@@ -27,7 +27,7 @@ We are committed to share our knowledge of Nym’s technologies and facilitate t
 
 ## Planned actions
 
-<ul>
+<ul text-align="center">
   <li>Organize regular meetups and workshops to educate the Brazilian community about Nym and how to use it.</li>
   <li>Create Portuguese-language documentation and tutorials for Nym.</li>
   <li>Develop Nym-based applications and tools that are specifically tailored to the needs of the Brazilian community.</li>
@@ -35,7 +35,7 @@ We are committed to share our knowledge of Nym’s technologies and facilitate t
 
 ## Our members:
 
-<ul>
+<ul text-align="center">
   <li>Daniel Vargas</li>
   <li>Fernanda Caetano</li>
   <li>João Vitor Sant'Anna</li>
