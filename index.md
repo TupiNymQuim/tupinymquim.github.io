@@ -7,7 +7,7 @@ layout: home
 ---
 # Nym Squad
 
-![tupinymquim.jpg](assets/images/tupinymquim.jpg)
+![tupinymquim.jpg](/assets/images/tupinymquim.jpg)
 
 ### The Nym Squad is focused on facilitating the formation of squads inside the Nym ecossistem.
 
