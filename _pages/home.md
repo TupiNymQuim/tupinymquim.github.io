@@ -15,23 +15,33 @@ We’ve gathered together because of our love for privacy, technology and Nym. T
 We are committed to share our knowledge of Nym’s technologies and facilitate the creation of squads with a wide range of acting areas. From activism to software development and infrastructure operation, we believe that company is essential to privacy and we aim to increase the number of use cases of the mixnet through the formation of these squads and therefore increase the privacy of the mixnet itself.
 
 ## Main focus points of the Nym Squad
-
-- Scaling the Nym ecossystem
-- Creation of squads throughout the world
-- Creation of templates and helpful materials for the Nym community
-
+<ul>
+<li>Scaling the Nym ecossystem</li>
+<li>Creation of squads throughout the world</li>
+<li>Creation of templates and helpful materials for the Nym community</li>
+</ul>
 ## Planned actions
-
-- Create a template for squad pages
-- Announce the 1st Nym squads during Level1 of Nym shipyard
-- Support all formed squads in order for them to fulfill their purposes
-
+<ul>
+<li>Create a template for squad pages</li>
+<li>Announce the 1st Nym squads during Level1 of Nym shipyard</li>
+<li>Support all formed squads in order for them to fulfill their purposes</li>
+</ul>
 ## Our members:
 
-- Member1
-- Member2
-- Member3
-- Member4
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 ## Reach us [**here](https://discord.gg/nym)** (put a group chat that will serve to reach out to the squad)
 
