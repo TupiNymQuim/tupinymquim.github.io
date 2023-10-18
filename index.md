@@ -5,6 +5,7 @@
 layout: home
 #author_profile: true
 ---
+
 # Nym Squad
 
 ![tupinymquim.jpg](/assets/images/tupinymquim.jpg)
@@ -20,9 +21,9 @@ We are committed to share our knowledge of Nym’s technologies and facilitate t
 ## Main focus points of the Nym Squad
 
 <ul text-align="center" margin=0 padding=0>
-<li>Promote knowledge about Nym technology</li>
-<li>Develop innovative projects for the Nym ecosystem</li>
-<li>Connect 42 students interested in internet privacy and security</li>
+<li margin=0 padding=0>Promote knowledge about Nym technology</li>
+<li margin=0 padding=0>Develop innovative projects for the Nym ecosystem</li>
+<li margin=0 padding=0>Connect 42 students interested in internet privacy and security</li>
 </ul>
 
 ## Planned actions
