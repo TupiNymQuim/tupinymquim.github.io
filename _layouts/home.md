@@ -2,6 +2,7 @@
 layout: default
 ---
 <!--{{ content }}-->
+<p style="text-align: center;">
   <h3>TupiNymQuim is an organization of 42 students in Brazil focused on developing projects for the Nym ecosystem.</h3>
   <h2>Manifesto</h2>
     <p>The organization is made up of students of different levels of knowledge, but they all share an interest in privacy and security on the internet.</p>
@@ -29,3 +30,4 @@ layout: default
   <li>Gabriel Guedes</li>
   <li>Gabriel Correia</li>
 </ul>
+</p>
