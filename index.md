@@ -6,7 +6,7 @@ layout: home
 #author_profile: true
 ---
 
-# TupyNymQuim
+# TupiNymQuim
 
 ![tupinymquim.jpg](/assets/images/tupinymquim.jpg){:height="200px" width="300px"}
 
