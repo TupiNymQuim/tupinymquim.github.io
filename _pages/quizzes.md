@@ -33,7 +33,7 @@ E: O Sphinx encripta os pacotes de forma semelhante, leia mais em [Freehaven](ht
 
 R: 3
 
-E: Por conta dos pacotes falsos, os invasores não sabem se o pacote é de um usuário anônimo ou não.
+E: Por conta dos pacotes falsos, os invasores não sabem se o usuário está realmente utilizando a mixnet.
 
 ### Quinta Questão
 ![Question 5](/assets/images/Question5.png)
@@ -66,7 +66,7 @@ E: A mixnet tem como função dificultar a vigilância dos dados
 ### Nona Questão
 ![Question 9](/assets/images/Question9.png)
 
-R: 1
+R: 3
 
 E: A Mix Net tem como intuito proteger contra as vigilâncias sejam governamentais ou corporativas.
 
@@ -75,7 +75,7 @@ E: A Mix Net tem como intuito proteger contra as vigilâncias sejam governamenta
 
 R: 4
 
-E: Forjar tráfico não é uma característica da Mix Net
+E: Apenas parte do tráfego da mixnet é forjado
 
 ### Décima Primeira Questão
 ![Question 11](/assets/images/Question11.png)
@@ -87,7 +87,7 @@ E: A MixNet através dos gateways é responsável pela criptografia ponto-a-pont
 ### Décima Segunda Questão
 ![Question 12](/assets/images/Question12.png)
 
-R: 12
+R: 2
 
 E: A nym propõe a defender a privacidade para todos, sem exclusão.
 
