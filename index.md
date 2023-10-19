@@ -8,7 +8,7 @@ layout: home
 
 # TupiNymQuim
 
-![tupinymquim.jpg](/assets/images/tupinymquim.jpg){:height="200px" width="300px"}
+![tupinymquim.jpg](/assets/images/de019771-78b2-46f5-954b-66c61cb960e3.jpeg){:height="200px" width="300px"}
 
 ### TupiNymQuim is an organization of software engineer students in Brazil focused on developing projects for the Nym ecosystem.
 
