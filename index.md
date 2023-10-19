@@ -24,7 +24,7 @@ Furthermore, we're committed to bridging the information gap by crafting compreh
 <ul style="list-style-type:none;">
 <li>Development of solutions/apps on the Nym ecosystem, with focus on Brazil specific use cases.</li>
 <li>Create content and engage with the technical area of Nym in Brazil.</li>
-<li>Connect 42 students interested in internet privacy and security</li>
+<li>Connect students interested in internet privacy and security</li>
 <li>Create Portuguese-language documentation and tutorials for Nym</li>
 <li>Organize online and offline events/meetups related to privacy and security in Brazil</li>
 </ul>
