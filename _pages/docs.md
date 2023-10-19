@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /docs/
 ---
 
 {{ content }}
