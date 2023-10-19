@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 permalink: /docs/
 author_profile: false
 ---
