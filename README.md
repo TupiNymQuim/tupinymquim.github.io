@@ -9,7 +9,7 @@ Furthermore, we’re committed to bridging the information gap by crafting compr
 ## Main focus points of the Nym Squad
 - Development of solutions/apps on the Nym ecosystem, with focus on Brazil specific use cases.
 - Create content and engage with the technical area of Nym in Brazil.
-- Connect 42 students interested in internet privacy and security
+- Connect students interested in internet privacy and security
 - Create Portuguese-language documentation and tutorials for Nym
 - Organize online and offline events/meetups related to privacy and security in Brazil
 
