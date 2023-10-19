@@ -1,5 +1,5 @@
 ---
-permalink:/brikan-about-nym/
+permalink: /brikan-about-nym/
 ---
 [Link da postagem Original](https://www.linkedin.com/pulse/glimpse-2028-beyond-how-nyms-visionary-mixnet-could-private-biswas/)
 
