@@ -1,8 +1,8 @@
 main:
   - title: "Quizzes"
     url: /quizzes/
-  #- title: "Categories"
-  # url: /categories/
+  - title: "Docs Traduzidos"
+    url: /docs/
   #- title: "Tags"
   #  url: /tags/
   #- title: "About"
