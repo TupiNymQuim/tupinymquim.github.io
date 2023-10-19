@@ -1,3 +1,6 @@
+---
+permalink: /network-requests/
+---
 Apresentando o primeiro Provedor de Serviços Nym.
 
 ![Imagem da postagem](https://miro.medium.com/v2/resize:fit:720/0*aWIyMCX_7C2WEufP/)
