@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /docs/
-author_profile = false
+author_profile: false
 ---
 
 {{ content }}
