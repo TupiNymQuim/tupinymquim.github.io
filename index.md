@@ -4,9 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 #author_profile: true
----
-<div class="initial-content" align="center">
-  
+---  
 # TupiNymQuim
 
 ![tupinymquim.jpg](/assets/images/de019771-78b2-46f5-954b-66c61cb960e3.jpeg){:height="200px" width="300px"}
@@ -45,5 +43,3 @@ Furthermore, we're committed to bridging the information gap by crafting compreh
 </ul>
 
 ## Reach us [here](https://t.me/+jO97cIbMEbowZWRh)
-
-</div>
