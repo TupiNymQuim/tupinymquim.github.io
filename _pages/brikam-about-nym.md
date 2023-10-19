@@ -1,5 +1,7 @@
-
-[Link da postagem](https://www.linkedin.com/pulse/glimpse-2028-beyond-how-nyms-visionary-mixnet-could-private-biswas/)
+---
+permalink:/brikan-about-nym/
+---
+[Link da postagem Original](https://www.linkedin.com/pulse/glimpse-2028-beyond-how-nyms-visionary-mixnet-could-private-biswas/)
 
 ## Um vislumbre de 2028 e além: Como a visão revolucionária da Nym pode transformar a Internet Privada
 
