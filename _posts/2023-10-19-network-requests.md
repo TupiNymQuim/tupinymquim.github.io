@@ -1,6 +1,9 @@
 ---
 permalink: /network-requests/
 ---
+
+[link da postagem original](https://blog.nymtech.net/tech-deepdive-network-requesters-e5359a6cc31c)
+
 Apresentando o primeiro Provedor de Serviços Nym.
 
 ![Imagem da postagem](https://miro.medium.com/v2/resize:fit:720/0*aWIyMCX_7C2WEufP/)
