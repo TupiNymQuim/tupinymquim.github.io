@@ -5,7 +5,7 @@
 layout: home
 #author_profile: true
 ---
-<div align="center">
+<div class="initial-content" align="center">
   
 # TupiNymQuim
 
