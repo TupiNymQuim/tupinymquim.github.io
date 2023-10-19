@@ -47,7 +47,7 @@ E: O TOR é passível de ataques nos fluxos de trafégo. Segue a lista de ataque
 
 R: 1
 
-E: O [Artigo]([https://archive.nytimes.com/thelede.blogs.nytimes.com/2013/03/15/new-twist-in-british-spys-case-unravels-in-u-s/) foi publicado pela New York Times em 2013 falando sobre a espionagem britânica.
+E: O [Artigo](https://archive.nytimes.com/thelede.blogs.nytimes.com/2013/03/15/new-twist-in-british-spys-case-unravels-in-u-s/) foi publicado pela New York Times em 2013 falando sobre a espionagem britânica.
 
 ### Sétima Questão
 ![Question 7](/assets/images/Question7.png)
