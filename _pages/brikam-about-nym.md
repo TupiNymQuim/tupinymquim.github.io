@@ -72,7 +72,7 @@ Neste futuro, a mixnet da Nym se torna a solução principal para a transmissão
 
 - A mixnet da Nym se alinha com os princípios da criptografia homomórfica. Dentro da mixnet, os dados são criptografados e anonimizados, e permanecem nesse estado enquanto atravessam a rede. A Nym pode implementar técnicas de criptografia homomórfica para permitir cálculos seguros nos dados, preservando a privacidade. Neste futuro, a mixnet da Nym capacita usuários e organizações a aproveitarem os benefícios da criptografia homomórfica com segurança. Os usuários podem realizar análises de dados, executar cálculos e processar informações sensíveis sem expô-las a ameaças potenciais. A mixnet da Nym se torna o facilitador da computação segura e privada, garantindo que a confidencialidade dos dados nunca seja comprometida.
 
-![Imagem do post do linkedin](https://media.licdn.com/dms/image/D5612AQGDWOtQMMOQyQ/article-inline_image-shrink_1500_2232/0/1695944574688?e=1703116800&v=beta&t=WTafD3XbD_3NG4tdnY_d9GyJDCZWZ0jNJQqkmnI4iCU/)
+![Imagem do post do linkedin](https://media.licdn.com/dms/image/D5612AQGzN792A4IYCw/article-inline_image-shrink_1500_2232/0/1695944478386?e=1703116800&v=beta&t=-p-rY2wzvISLq84ckFsJ0J_hHFgwTx5HPD8RfWuSf-M)
 
 ## 4. Computação de Borda: (Edge Computing) Mantendo os Dados Próximos:
 
@@ -90,7 +90,7 @@ Neste futuro, a mixnet da Nym se torna a solução principal para a transmissão
 - A computação de borda depende de uma rede de nós de computação distribuídos localizados na "borda" da rede, mais próximos de onde os dados são gerados. Esses nós podem ser dispositivos IoT, servidores de borda ou até mesmo veículos autônomos. A tecnologia de mixnet da Nym se torna o ponto central desse ecossistema descentralizado de borda. Ao integrar a mixnet da Nym nos nós de borda, os dados sensíveis permanecem próximos à sua fonte, de forma segura criptografada e anonimizada. Imagine um mundo onde veículos autônomos se comunicam entre si e com a infraestrutura de tráfego por meio de nós de computação de borda. A mixnet da Nym garante que essas interações sejam não apenas seguras, mas também privadas. Os usuários confiam na Nym para proteger seus dados, seja gerado por dispositivos domésticos inteligentes ou carros autônomos. A mixnet da Nym se torna uma parte integral do ecossistema de computação de borda, garantindo que a privacidade seja o estado padrão para todos os dados gerados na borda.
 
 
-![Imagem do post](https://media.licdn.com/dms/image/D5612AQGDWOtQMMOQyQ/article-inline_image-shrink_1500_2232/0/1695944574688?e=1701907200&v=beta&t=GnwSkR2TzMiktM11-0J5DFauTKBR37np2RmAkaSZe_Q/)
+![Imagem do post](https://media.licdn.com/dms/image/D5612AQGDWOtQMMOQyQ/article-inline_image-shrink_1500_2232/0/1695944574688?e=1703116800&v=beta&t=WTafD3XbD_3NG4tdnY_d9GyJDCZWZ0jNJQqkmnI4iCU)
 
 
 ## Redes Mesh: (Mesh Networks) Reforçando Conexões Locais:
@@ -108,8 +108,7 @@ Neste futuro, a mixnet da Nym se torna a solução principal para a transmissão
 
 - Redes mesh dependem do conceito de conectividade ponto a ponto. Dispositivos em uma rede mesh podem atuar tanto como clientes quanto como roteadores, encaminhando dados para outros dispositivos dentro da rede. A mixnet da Nym pode ser integrada de forma transparente em redes mesh para aprimorar a privacidade e segurança. Imagine um cenário em que uma vila remota estabelece sua rede mesh para se conectar à internet. A mixnet da Nym garante que todos os dados transmitidos dentro dessa rede sejam criptografados e anonimizados. Os usuários nessa vila confiam na Nym para proteger suas interações locais, reforçando sua crença em uma internet descentralizada e privada. A mixnet da Nym se torna a guardiã da privacidade nessas redes mesh, garantindo que os dados dos usuários permaneçam confidenciais.
 
-(Imagem do post)
-https://media.licdn.com/dms/image/D5612AQGN-Gcn-DKRpg/article-inline_image-shrink_1500_2232/0/1695944649693?e=1701907200&v=beta&t=CW7IZwbsRWiKHz6Qc6EVkg0S8ImrArpDSjSvg1kZass
+![Imagem do post](https://media.licdn.com/dms/image/D5612AQGN-Gcn-DKRpg/article-inline_image-shrink_1500_2232/0/1695944649693?e=1703116800&v=beta&t=Yc2g_k4RvdQJ3yOvoB4LbXe4lJhYr132XFR_D6qo_NQ)
 
 
 ## 6. Minimização de Dados (Data Minimization): Protegendo o que é Importante:
@@ -133,8 +132,7 @@ Essas tendências representam avanços significativos em tecnologia e práticas 
 
 No futuro não muito distante, a internet, como a conhecemos, passará por uma transformação profunda. Será um reino onde a privacidade não é um pensamento passado, mas a base fundamental sobre a qual o mundo digital é construído. Esta visão coletiva da internet privada, prestes a se materializar em apenas cinco anos, não é apenas uma fantasia; é uma realidade tangível.
 
-(Imagem do post)
-https://media.licdn.com/dms/image/D5612AQEr-NmnOPLQdA/article-inline_image-shrink_1500_2232/0/1695944836008?e=1701907200&v=beta&t=SxLLycBSgFtbJwroYB8sxAFh02xDG9JpY52zGXtG-48
+![Imagem do post](https://media.licdn.com/dms/image/D5612AQEr-NmnOPLQdA/article-inline_image-shrink_1500_2232/0/1695944836008?e=1701907200&v=beta&t=SxLLycBSgFtbJwroYB8sxAFh02xDG9JpY52zGXtG-48)
 
 
 #### Em sua essência, essa visão é moldada por três elementos cruciais:
@@ -143,8 +141,7 @@ https://media.licdn.com/dms/image/D5612AQEr-NmnOPLQdA/article-inline_image-shrin
 2. ***Mixnet como a Nova Espinha Dorsal Digital***: Neste cenário visionário, as mixnets ganharão destaque como a espinha dorsal das operações na internet, assim como a nuvem é hoje para o armazenamento de dados. Essas mixnets revolucionarão a transmissão de dados, tornando-a praticamente impermeável à vigilância. Sua pegada digital percorrerá a mixnet, um labirinto de caminhos criptografados onde sua privacidade é primordial. Essa transformação será sentida em todas as interações online, desde mensagens até transações financeiras, tornando o mundo digital um lugar mais seguro para todos.
 3. ***Privacidade como Estado Padrão***: Talvez o aspecto mais transformador dessa visão seja a mudança no estado padrão dos dados. Os usuários não precisarão mais lidar com configurações e configurações complexas para proteger sua privacidade. Na internet do futuro, a privacidade será o estado natural de todas as interações online. Cada e-mail, cada chamada de vídeo, cada compra será protegida por padrão, capacitando tanto indivíduos quanto organizações a recuperar o controle sobre suas vidas digitais. Essa mudança de paradigma inaugurará uma era em que a privacidade não será apenas um direito, mas um modo de vida.
 
-(Imagem do post)
-https://media.licdn.com/dms/image/D5612AQGiER9yrEAehw/article-inline_image-shrink_1500_2232/0/1695945455267?e=1701907200&v=beta&t=dsj6geE90XLgm6g0MbD6paUuY2wg48jFGyKeUJrKY8A
+![Imagem do post](https://media.licdn.com/dms/image/D5612AQGiER9yrEAehw/article-inline_image-shrink_1500_2232/0/1695945455267?e=1701907200&v=beta&t=dsj6geE90XLgm6g0MbD6paUuY2wg48jFGyKeUJrKY8A)
 
 ## Conclusão: Moldando o Futuro de uma Internet Privada
   
