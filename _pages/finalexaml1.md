@@ -45,3 +45,19 @@ E: Relatórios e estudos comprovam que a perca da privacidade reduz o espaço qu
 R: 4
 
 E: As 3 alternativas estão corretas, o token é necessário para aumentar a largura de banda da privacidade, é oq torna a rede descentralizada e também atua como reputação para os nós da rede. Pode ler mais sobre o Nym Token [aqui](https://nymtech.net/nym-cryptoecon-paper.pdf)
+
+### Sexta Questão
+
+![Question 6](/assets/images/finalexaml1/Question6.png)
+
+R: 1
+
+E: Os metadados podem potencialmente revelar padrões de tráfegos na internet. Entenda mais na [MasterClass #2](https://www.youtube.com/live/VLLsGzLJRaI?si=eWUc3NwhNjZKpVKj&t=17/)
+
+### Sétima Questão
+
+![Question 7](/assets/images/finalexaml1/Question7.png)
+
+R: 4
+
+E: Hoje há um exposição muito grande dos nossos dados e metadados na internet, seja para fins de publicidade ou para fins de vigilância, então a privacidade hoje é importante e urgente.
