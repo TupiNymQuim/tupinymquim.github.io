@@ -3,8 +3,6 @@ permalink: /quizzes/practicetest1
 layout: home
 ---
 
-# Quizzes
-
 ## Practice Test #1
 
 ### Primeira Questão
