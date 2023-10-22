@@ -27,4 +27,21 @@ E: A VPN apenas transfere a confiança, as redes wifis públicas expôe todo o s
 
 R: 2
 
-E: Ainda não existe app da Nym voltado para mobile (Android e IOS), há um diretório no github para NymVPN (Android) mas ainda em fase de desenvolvimento. Hoje é possível baixar o app da nym para os sistemas linux, Windows e MAC, através da [página oficial](https://nymtech.net/download/nymconnect). E os desenvolvedores podem integrar a MixNet através da [mix-fetch](https://sdk.nymtech.net/examples/mix-fetch) e da [SDK Nym](https://sdk.nymtech.net/)
+E: Ainda não existe app da NymConnect nas lojas AppStore e PlayStore, há um diretório no github para NymVPN (Android) mas ainda em fase de desenvolvimento. Hoje é possível baixar o app da nym para os sistemas linux, Windows e MAC, através da [página oficial](https://nymtech.net/download/nymconnect). E os desenvolvedores podem integrar a MixNet através da [mix-fetch](https://sdk.nymtech.net/examples/mix-fetch) e da [SDK Nym](https://sdk.nymtech.net/)
+
+
+### Quarta Questão
+
+![Question 4](/assets/images/finalexaml1/Question4.png)
+
+R: 1
+
+E: Relatórios e estudos comprovam que a perca da privacidade reduz o espaço que os indíviduos tem para experimentar, refletir, e também gera o medo de ser julgado.
+
+### Quinta Questão
+
+![Question 5](/assets/images/finalexaml1/Question5.png)
+
+R: 4
+
+E: As 3 alternativas estão corretas, o token é necessário para aumentar a largura de banda da privacidade, é oq torna a rede descentralizada e também atua como reputação para os nós da rede. Pode ler mais sobre o Nym Token [aqui](https://nymtech.net/nym-cryptoecon-paper.pdf)
