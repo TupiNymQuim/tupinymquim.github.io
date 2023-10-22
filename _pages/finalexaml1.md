@@ -19,4 +19,12 @@ E: A metadata pode ser inferida para recuperar conteúdo criptografado sem neces
 
 R: 4
 
-E: 4 - A VPN apenas transfere a confiança, as redes wifis públicas expôe todo o seu tráfego de dados, "extensões seguras" no máximo mascaram seu ip. Só através da MixNet é possível criptografar e manter seus pacotes anônimos.
+E: A VPN apenas transfere a confiança, as redes wifis públicas expôe todo o seu tráfego de dados, "extensões seguras" no máximo mascaram seu ip. Só através da MixNet é possível criptografar e manter seus pacotes anônimos.
+
+### Terceira Questão
+
+![Question 3](/assets/images/finalexaml1/Question3.png)
+
+R: 2
+
+E: Ainda não existe app da Nym voltado para mobile (Android e IOS), há um diretório no github para NymVPN (Android) mas ainda em fase de desenvolvimento. Hoje é possível baixar o app da nym para os sistemas linux, Windows e MAC, através da [página oficial](https://nymtech.net/download/nymconnect). E os desenvolvedores podem integrar a MixNet através da [mix-fetch](https://sdk.nymtech.net/examples/mix-fetch) e da [SDK Nym](https://sdk.nymtech.net/)
