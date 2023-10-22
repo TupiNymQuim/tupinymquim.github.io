@@ -2,8 +2,6 @@
 permalink: /quizzes/finalexaml1/
 ---
 
-# FinalExamL1
-
 ![Question 1](/assets/images/finalexaml1/Question1.png)
 
 R: 2
