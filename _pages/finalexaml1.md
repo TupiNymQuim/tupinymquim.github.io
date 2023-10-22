@@ -1,6 +1,9 @@
 ---
 permalink: /quizzes/finalexaml1/
+layout: home
 ---
+
+# Final Exam L1
 
 ![Question 1](/assets/images/finalexaml1/Question1.png)
 
