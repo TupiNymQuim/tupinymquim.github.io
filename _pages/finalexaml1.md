@@ -61,3 +61,19 @@ E: Os metadados podem potencialmente revelar padrões de tráfegos na internet. 
 R: 4
 
 E: Hoje há um exposição muito grande dos nossos dados e metadados na internet, seja para fins de publicidade ou para fins de vigilância, então a privacidade hoje é importante e urgente.
+
+### Oitava Questão
+
+![Question 8](/assets/images/finalexaml1/Question8.png)
+
+R: ?
+
+E: ?
+
+### Nona Questão
+
+![Question 9](/assets/images/finalexaml1/Question9.png)
+
+R: 4
+
+E: A mix-net fornece privacidade a nível de rede para as blockchains(layer 1), protegendo as transações peer-to-peer e realizando a coordenação entre os validadores. Leia mais em [Layer Zero - Privacy Infrastructure].
