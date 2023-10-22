@@ -76,4 +76,4 @@ E: ?
 
 R: 4
 
-E: A mix-net fornece privacidade a nível de rede para as blockchains(layer 1), protegendo as transações peer-to-peer e realizando a coordenação entre os validadores. Leia mais em [Layer Zero - Privacy Infrastructure].
+E: A mix-net fornece privacidade a nível de rede para as blockchains(layer 1), protegendo as transações peer-to-peer e realizando a coordenação entre os validadores. Leia mais em [Layer Zero - Privacy Infrastructure](https://blog.nymtech.net/nym-layer-0-privacy-infrastructure-for-the-whole-internet-e53238f9b8e7).
