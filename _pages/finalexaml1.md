@@ -5,6 +5,9 @@ layout: home
 
 # Final Exam L1
 
+**Note:** This is an unofficial answer sheet made by the TupiNymQuim squad, so it may be subject to errors.
+{: .notice--warning}
+
 ### Primeira Questão
 
 ![Question 1](/assets/images/finalexaml1/Question1.png)
@@ -66,7 +69,7 @@ E: Hoje há um exposição muito grande dos nossos dados e metadados na internet
 
 ![Question 8](/assets/images/finalexaml1/Question8.png)
 
-R: 
+R: 1
 
 E: 
 
