@@ -119,4 +119,10 @@ R:
 
 E: 
 
+### Décima Quinta Questão
 
+![Question 15](/assets/images/finalexaml1/Question15.png)
+
+R:
+
+E: 
