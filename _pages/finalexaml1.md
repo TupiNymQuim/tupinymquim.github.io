@@ -94,3 +94,29 @@ R:
 
 E:
 
+
+### Décima Segunda Questão
+
+![Question 12](/assets/images/finalexaml1/Question12.png)
+
+R: 4
+
+E: A Nym usa a blockchain Nyx pra apoiar suas operações. Leia mais sobre a blockchain [Nyx](https://nymtech.net/docs/nyx/interacting-with-chain.html)
+
+### Décima Terceira Questão
+
+![Question 13](/assets/images/finalexaml1/Question13.png)
+
+R: 5
+
+E: Na página oficial da Nym é possível ver a lista de parceiros, a única que não consta é a INEOS.
+
+### Décima Quarta Questão
+
+![Question 14](/assets/images/finalexaml1/Question14.png)
+
+R: 
+
+E: 
+
+
