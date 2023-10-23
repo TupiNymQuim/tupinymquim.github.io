@@ -66,9 +66,9 @@ E: Hoje há um exposição muito grande dos nossos dados e metadados na internet
 
 ![Question 8](/assets/images/finalexaml1/Question8.png)
 
-R: ?
+R: 
 
-E: ?
+E: 
 
 ### Nona Questão
 
@@ -90,9 +90,9 @@ E: Através da monitorização dos pacotes, é possível obter os metadados, e a
 
 ![Question 11](/assets/images/finalexaml1/Question11.png)
 
-R:
+R: 1
 
-E:
+E: A privacidade evita a prática de front-running, pois ajuda a tornar as transações indistinguíveis, tornando anônimo o remetente na camada de rede. Leia mais no [whitepaper](https://nymtech.net/nym-whitepaper.pdf)
 
 
 ### Décima Segunda Questão
