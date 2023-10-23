@@ -6,6 +6,7 @@ layout: home
 # Final Exam L1
 
 **Nota:** Esta é uma folha de respostas não oficial feita pela squad TupiNymQuim, portanto pode estar sujeita a erros.
+Sugestões podem ser enviadas por meio do nosso canal no [Telegram](https://t.me/+jO97cIbMEbowZWRh)
 {: .notice--warning}
 
 ### Primeira Questão
