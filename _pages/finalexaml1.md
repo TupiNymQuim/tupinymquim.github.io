@@ -5,7 +5,7 @@ layout: home
 
 # Final Exam L1
 
-**Note:** This is an unofficial answer sheet made by the TupiNymQuim squad, so it may be subject to errors.
+**Note:** Esta é uma folha de respostas não oficial feita pela squad TupiNymQuim, portanto pode estar sujeita a erros.
 {: .notice--warning}
 
 ### Primeira Questão
@@ -71,7 +71,7 @@ E: Hoje há um exposição muito grande dos nossos dados e metadados na internet
 
 R: 1
 
-E: 
+E: Confiança se refere a confiar na infraestrutura que armazena e processa os dados.
 
 ### Nona Questão
 
