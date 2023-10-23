@@ -115,14 +115,14 @@ E: Na página oficial da Nym é possível ver a lista de parceiros, a única que
 
 ![Question 14](/assets/images/finalexaml1/Question14.png)
 
-R: 
+R: 2
 
-E: 
+E: A Nym atua na camada de rede ocultado endereços ips e misturando os pacotes para que não haja exposição dos metadados.
 
 ### Décima Quinta Questão
 
 ![Question 15](/assets/images/finalexaml1/Question15.png)
 
-R:
+R: 1
 
-E: 
+E: O Nym atua na privacidade e na segurança online.
