@@ -5,7 +5,7 @@ layout: home
 
 # Final Exam L1
 
-**Note:** Esta é uma folha de respostas não oficial feita pela squad TupiNymQuim, portanto pode estar sujeita a erros.
+**Nota:** Esta é uma folha de respostas não oficial feita pela squad TupiNymQuim, portanto pode estar sujeita a erros.
 {: .notice--warning}
 
 ### Primeira Questão
