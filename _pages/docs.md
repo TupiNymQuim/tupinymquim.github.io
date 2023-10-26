@@ -8,3 +8,5 @@ author_profile: false
 [Brikam About Nym 28-09-2023](https://tupinymquim.github.io/brikam-about-nym)
 
 [Network Requests 13-07-2022](https://tupinymquim.github.io/network-requests)
+
+[Stake Mix-Node 20-05-2022](https://tupinymquim.github.io/mix-node)
