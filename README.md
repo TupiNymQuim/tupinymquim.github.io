@@ -14,8 +14,6 @@ Furthermore, we’re committed to bridging the information gap by crafting compr
 - Organize online and offline events/meetups related to privacy and security in Brazil
 
 ## Our members:
-- danielvargas
-- fecaetano
 - vitorsantanna
 - izacabral
 - itsmevittin
