@@ -1,6 +1,8 @@
 main:
   - title: "PT"
     url: /pt
+  - title: "EN"
+    url: /
   - title: "Quizzes"
     url: /quizzes/
   - title: "Docs Traduzidos"
