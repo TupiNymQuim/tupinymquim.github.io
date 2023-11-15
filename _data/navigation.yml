@@ -1,4 +1,6 @@
 main:
+  - title: "PT"
+    url: /pt
   - title: "Quizzes"
     url: /quizzes/
   - title: "Docs Traduzidos"
