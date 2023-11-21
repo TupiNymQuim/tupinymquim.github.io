@@ -5,6 +5,8 @@ main:
     url: /
   - title: "Quizzes"
     url: /quizzes/
+  - title: "Contribuições"
+    url: /contribuicoes/
   - title: "Docs Traduzidos"
     url: /docs/
   #- title: "Tags"
