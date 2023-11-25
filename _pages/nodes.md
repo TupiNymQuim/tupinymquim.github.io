@@ -9,7 +9,8 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 ## TupiNymQuim 1 - Brazil
 [Link do Node](https://mixnet.explorers.guru/mixnode/7PvubVkboJQm881PxAJR6oBkMB6f8R1Au55tQjnmTasr)
 
-## TupiNymQuim 2 - 
+## TupiNymQuim 2 - India
+[Link do Node](https://mixnet.explorers.guru/mixnode/7r4gtQGLbLZfJ9m1b5LmBksxLbvAzfRy6fqzeLAdwwY6)
 
 ## TupiNymQuim 3 - 
 
