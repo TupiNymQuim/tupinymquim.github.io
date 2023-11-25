@@ -9,6 +9,8 @@ main:
     url: /contribuicoes/
   - title: "Docs Traduzidos"
     url: /docs/
+  - title: "Nodes"
+    url: /nodes/
   #- title: "Tags"
   #  url: /tags/
   #- title: "About"
