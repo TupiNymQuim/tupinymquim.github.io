@@ -17,3 +17,4 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 
 [TupiNymQuim 5 - India](https://mixnet.explorers.guru/mixnode/4PP6FnME2EF9hgu4Teo4BJ3q4iNfGmuAzC4gFHFY2jnK)
 
+[TupiNymQuim 6 - Turkey](https://mixnet.explorers.guru/mixnode/EfX72q3f5o1rTRjEJQASyWwPnRChLrBH77xL2EUgUtBX)
