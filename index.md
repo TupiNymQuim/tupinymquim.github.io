@@ -31,8 +31,6 @@ Furthermore, we're committed to bridging the information gap by crafting compreh
 ## Our members:
 
 <ul text-align="center" style="list-style-type:none;">
-  <li>danielvargas</li>
-  <li>fecaetano</li>
   <li>vitorsantanna</li>
   <li>izacabral</li>
   <li>itsmevittin</li>
