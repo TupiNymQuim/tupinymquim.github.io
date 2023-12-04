@@ -40,7 +40,8 @@ Privacy Day 28/11/2023
 
 ### IncognitoBot (Bot voltado para os operadores)
 [Link do Repositório](https://github.com/TupiNymQuim/IncognitoBot)
-[Telegram](https://web.telegram.org/k/#@tupinymquim_bot)
+
+[Bot](https://web.telegram.org/k/#@tupinymquim_bot)
 
 
 
