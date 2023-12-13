@@ -28,7 +28,7 @@ layout: home
 
 Workshop com os Desenvolvedores da universidade 42 Rio
 <br>
-<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/5f8493d5-b595-420f-b7a4-e1c1cb97430a" witdh="300" height="250"</img>
+<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/5f8493d5-b595-420f-b7a4-e1c1cb97430a" width="300" height="250"</img>
 <br>
 
 Privacy Day 28/11/2023
