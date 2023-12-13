@@ -25,10 +25,9 @@ layout: home
 <img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/f2fd2bc7-3f6c-49e8-83e4-3c99f90aa4e0" width="300" height="250"/>
 <img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/feb04192-b947-456f-b3ae-46bf987f56d7" width="300" height="250"/>
 
-
 Workshop com os Desenvolvedores da universidade 42 Rio
 <br>
-<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/5f8493d5-b595-420f-b7a4-e1c1cb97430a" width="300" height="250"</img>
+<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/5f8493d5-b595-420f-b7a4-e1c1cb97430a" width="300" height="250"/>
 <br>
 
 Privacy Day 28/11/2023
