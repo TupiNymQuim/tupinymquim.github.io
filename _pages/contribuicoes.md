@@ -19,7 +19,7 @@ layout: home
 
 ## Tutoriais
 
-[Criando Bot no Telegram para Informarções Sobre seu Mixnode](https://vitorsantanna.hashnode.dev/criando-um-bot-do-telegram-para-mostrar-as-informacoes-sobre-seu-mixnode)
+[Criando Bot no Telegram para Informações Sobre seu Mixnode](https://vitorsantanna.hashnode.dev/criando-um-bot-do-telegram-para-mostrar-as-informacoes-sobre-seu-mixnode)
 
 ## Workshops Presenciais
 <img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/f2fd2bc7-3f6c-49e8-83e4-3c99f90aa4e0" width="300" height="250"/>
