@@ -101,6 +101,9 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
+  - scope:
+      path: "_documentations"
+      type: pages
     values:
       layout: single
       author_profile: false
