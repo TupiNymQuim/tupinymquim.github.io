@@ -1,6 +1,6 @@
 ---
 permalink: /update-mixnode-en/
-layout: home
+layout: docs
 author_profile: false
 ---
 
