@@ -3,6 +3,7 @@ permalink: /update-mixnode-pt/
 ---
 
 # Atualize seu mixnode do jeito certo
+
 > Por supermeia da TupiNymQuim
 
 Considere nos dar suporte por meio de stake em algum dos seguintes mixnodes:
@@ -10,6 +11,7 @@ Considere nos dar suporte por meio de stake em algum dos seguintes mixnodes:
 * [supermeia-node](https://explorer.nymtech.net/network-components/mixnode/927)
 
 ## Sumário
+
 1. [Contexto](#contexto)
     1. [Objetivo](#objetivo) 
     2. [Porque o routing score cai](#porque-o-routing-score-cai)
@@ -36,6 +38,7 @@ o routing score, pode passar diretamente para o
 
 
 ### Objetivo
+
 A atualização do mixnode é um processo muito simples, mas tem um efeito
 secundário indesejável de baixar o routing score do seu node durante um
 período de tempo. O objetivo deste guia é te dar o **passo a passo** de como começar
@@ -43,6 +46,7 @@ a atualizar o seu mixnode com um método **que lhe permite não perder o seu
 precioso routing score**
 
 ### Porque o routing score cai
+
 O motivo por trás da queda do routing score não está confirmado (pelo menos que
 eu saiba), mas depois de alguma experiência na execução de mixnodes e na
 observação de seu comportamento. Ficou claro para mim que a queda do routing 
@@ -76,6 +80,7 @@ desatualizado do mixnode
     desse método
 
 ## Tutorial
+
 > Este guia pressupõe que você tenha um mixnode já instalado com a configuração
 de automação do systemd. Se esse não for o seu caso, consulte a [documentação
 oficial da Nym](https://nymtech.net/operators/introduction.html) para obter
@@ -97,44 +102,54 @@ escolha não tem nenhum motivo específico e você pode escolher outras portas s
 nenhuma implicação na eficácia do método.**
 
 ### Setup pela primeira vez
+
 Antes de começar a atualizar sem que seu routing score caia, você precisará
 fazer algumas configurações iniciais.
 
 #### Clonar mixnode
+
 Para podermos executar dois processos mixnodes ao mesmo tempo, precisaremos
 clonar nosso mixnode.
 
 Podemos fazer isso executando o seguinte comando:
+
 ```bash
 cp -rf $HOME/.nym/mixnodes/<DEFAULT> $HOME/.nym/mixnodes/<ALTERNATE>
 ```
 
 #### Abrir portas alternativas
+
 Para que o mixnode `<ALTERNATE>` possa ser executado, precisaremos executá-lo
 com portas diferentes das do mixnode `<DEFAULT>`. E, por isso, precisamos
 permitir essas portas alternativas em nosso firewall.
 
 Podemos permitir as portas com o seguinte comando:
+
 ```bash
 sudo ufw allow 1337,1338,1339/tcp
 ```
 
 Você pode verificar as portas permitidas com o seguinte comando:
+
 ```bash
 sudo ufw status
 ```
 
 #### Armazenando binários
+
 Como nossos mixnodes serão executados com binários diferentes, é uma boa ideia
 criar uma estrutura de diretórios para armazenar os binários de forma
 organizada.
 
 Podemos criar os diretórios para nossos binários com os seguintes comandos:
+
 ```bash
 mkdir -p $HOME/binaries/<DEFAULT>
 mkdir -p $HOME/binaries/<ALTERNATE>
 ```
+
 Com isso, teremos uma estrutura de diretórios de tal forma:
+
 ```
 └──── $HOME
     └── binaries
@@ -151,7 +166,9 @@ apenas mudaremos o caminho no Execstart.
 
 Crie o seguinte arquivo de serviço `/etc/systemd/system/<ALTERNATE>.service` e
 coloque isso dentro dele:
+
 > Substitua \<USER\> pelo seu username e \<VERSION\> pela versão do binário.
+
 ```
 [Unit]
 Description=Nym Mixnode <VERSION>
@@ -175,7 +192,9 @@ apontar também para o novo diretório, mas não recarregue o daemon ainda.
 
 Modifique o arquivo de serviço `/etc/systemd/system/<DEFAULT>.service` para
 ficar dessa forma:
+
 > Substitua \<USER\> pelo seu username e \<VERSION\> pela versão do binário.
+
 ```
 [Unit]
 Description=Nym Mixnode <VERSION>
@@ -193,10 +212,12 @@ RestartSec=30
 [Install]
 WantedBy=multi-user.target
 ```
+
 Com isso, todas as etapas de configuração foram concluídas e podemos prosseguir
 com a atualização do node sem perder o routing score.
 
 ### Atualizando
+
 > Nesta seção, presume-se que você tenha feito a configuração apresentada na
 [seção anterior](#setup-pela-primeira-vez).
 
@@ -221,10 +242,13 @@ movê-lo para o diretório correspondente:
 o binário atualizado
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 mv <PATH_TO_UPDATED_BINARY>/nym-mixnode $HOME/binaries/<ALTERNATE>/
 ```
+
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 mv <PATH_TO_UPDATED_BINARY>/nym-mixnode $HOME/binaries/<DEFAULT>/
 ```
@@ -234,24 +258,31 @@ mv <PATH_TO_UPDATED_BINARY>/nym-mixnode $HOME/binaries/<DEFAULT>/
 Agora você precisa iniciar o node com o novo binário:
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 $HOME/binaries/<ALTERNATE>/nym-mixnode init --id <ALTERNATE> --host $(curl -4 https://ifconfig.me) --mix-port 1337 --verloc-port 1338 --http-api-port 1339
 ```
+
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 $HOME/binaries/<DEFAULT>/nym-mixnode init --id <DEFAULT> --host $(curl -4 https://ifconfig.me)
 ```
 
 #### Iniciar e habilitar o serviço
+
 Agora que seu mixnode está atualizado e precisamos colocá-lo em funcionamento,
 podemos fazer isso habilitando e iniciando seu serviço:
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 sudo systemctl enable <ALTERNATE>.service
 sudo systemctl start <ALTERNATE>.service
 ```
+
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 sudo systemctl enable <DEFAULT>.service
 sudo systemctl start <DEFAULT>.service
@@ -261,15 +292,19 @@ Você pode verificar se o mixnode está sendo executado corretamente com o
 seguinte comando:
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 systemctl status <ALTERNATE>.service
 ```
+
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 systemctl status <DEFAULT>.service
 ```
 
 #### Atualizar informação na wallet
+
 Agora você precisa atualizar as portas e a versão do mixnode na wallet, para
 que o mixnode atualizado comece a receber pacotes.
 
@@ -280,6 +315,7 @@ Na página de configurações do node, você precisará atualizar os campos de
 acordo:
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 Mix port = 1337
 Verloc port = 1338
@@ -288,6 +324,7 @@ Version = nova versão do mixnode
 ```
 
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 Mix port = 1789
 Verloc port = 1790
@@ -297,6 +334,7 @@ Version = nova versão do mixnode
 Depois disso o mixnode atualizado estará recebendo os pacotes
 
 #### Desligar serviço desatualizado
+
 **Depois de esperar 1 hora** a partir do momento em que você atualizou as
 portas na wallet, você pode desligar o serviço que está executando o mixnode
 desatualizado:
@@ -304,11 +342,14 @@ desatualizado:
 intervalo seguro para que o seu routing score não caia
 
 Para `<DEFAULT>` desatualizado.
+
 ```bash
 sudo systemctl disable <DEFAULT>.service
 sudo systemctl stop <DEFAULT>.service
 ```
+
 Para `<ALTERNATE>` desatualizado.
+
 ```bash
 sudo systemctl disable <ALTERNATE>.service
 sudo systemctl stop <ALTERNATE>.service
@@ -317,13 +358,16 @@ sudo systemctl stop <ALTERNATE>.service
 Se esta foi a primeira vez que você atualizou com esse método, deverá
 recarregar o daemon para registrar as alterações que fizemos no arquivo de
 serviço `<DEFAULT>`. Você pode fazer isso executando o seguinte comando:
+
 ```bash
 sudo systemctl daemon-reload
 ```
+
 Com isso, seu mixnode agora está sendo executado com o binário mais recente e
 seu routing score permaneceu intacto.
 
 ## Conclusão
+
 Se você tiver alguma contribuição que gostaria de fazer, sinta-se à vontade
 para abrir um pull request ou uma issue no
 [repositório do github](https://github.com/TupiNymQuim/tupinymquim.github.io).
