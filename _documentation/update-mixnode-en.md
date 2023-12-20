@@ -57,14 +57,14 @@ A: Simply don't stop the mixnode process!
 
 In short, what we will do to avoid stopping the mixnode process is:
 * Create a clone of our mixnode on the same VPS
-    * It could be done with 2 different VPSes as well in a more simple but 
+    * It could be done with 2 different VPSes as well in a more simple but more
     expensive manner
 * We will run both of them simultaneously on different ports while updating
     * The clone will have the new version of the binary while the
 original will have the outdated version
 * We will update the ports on the wallet to match the ports of the updated
 process, updating our mixnode
-* After the time interval of 1 epoch (1 hour currently) we will shut down the
+* After the time interval of 1 hour we will shut down the
 original outdated mixnode process 
     * This time interval has not been thoroughly tested but it has never
     resulted in routing score dropping while developing this method
@@ -134,7 +134,6 @@ With that we have a directory structure that looks like this:
     └── binaries
         ├── <DEFAULT>
         └── <ALTERNATE>
-            
 ```
 
 #### Service files
@@ -147,7 +146,7 @@ path on Execstart.
 Create the following service file `/etc/systemd/system/<ALTERNATE>.service` and
 put this inside it:
 > Substitute \<USER\> by your username and \<VERSION\> by the version of the
-binary
+binary.
 ```
 [Unit]
 Description=Nym Mixnode <VERSION>
@@ -289,8 +288,7 @@ HTTP port = 8000
 Version = new mixnode version
 ```
 
-
-After this the updated mixnode will be the one receiving the packets>
+After this the updated mixnode will be the one receiving the packets
 
 #### Shut down outdated service
 **After waiting 1 hour** from when you updated the ports on the wallet you can
