@@ -98,18 +98,16 @@ defaults:
       share: true
       related: false
   # _pages
-  - 
-  scope:
+  - scope:
       path: "_pages"
       type: pages
-  values:
+    values:
       layout: single
       author_profile: false
-  -
-  scope:
+  - scope:
       path: "_documentations"
       type: pages
-  values:
+    values:
       layout: single
       author_profile: false
  
