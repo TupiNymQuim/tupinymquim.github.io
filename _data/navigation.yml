@@ -7,7 +7,7 @@ main:
     url: /quizzes/
   - title: "Contribuições"
     url: /contribuicoes/
-  - title: "Docs Traduzidos"
+  - title: "Docs"
     url: /docs/
   - title: "Nodes"
     url: /nodes/
