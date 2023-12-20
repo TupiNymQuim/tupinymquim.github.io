@@ -39,8 +39,8 @@ Privacy Day 28/11/2023
 
 [Website](https://incognito-livid-nu.vercel.app/)
 
-### IncognitoBot (Bot voltado para os operadores)
-[Link do Repositório](https://github.com/TupiNymQuim/IncognitoBot)
+## NodesBot (Bot voltado para os operadores)
+[Link do Repositório](https://github.com/TupiNymQuim/NodesBot)
 
 [Bot](https://web.telegram.org/k/#@tupinymquim_bot)
 
