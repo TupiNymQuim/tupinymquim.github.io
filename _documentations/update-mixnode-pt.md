@@ -1,5 +1,7 @@
 ---
 permalink: /update-mixnode-pt/
+layout: home
+author_profile: false
 ---
 
 # Atualize seu mixnode do jeito certo
