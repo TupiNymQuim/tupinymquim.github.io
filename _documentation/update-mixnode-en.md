@@ -34,7 +34,7 @@ If you're here just for the step by step on how to update without dropping the
 routing score you can skip directly to the [Guide](#guide).
 
 
-### Goal w
+### Goal
 Updating the mixnode is a very simple process but it has an undesired side
 effect of dropping the routing score of your node for a period of time. The aim
 of this guide is to provide you with a **step by step guide** on how to start
