@@ -63,18 +63,20 @@ Q: So how does one update their mixnode without dropping the routing score?
 A: Simply don't stop the mixnode process!
 
 In short, what we will do to avoid stopping the mixnode process is:
-* Create a clone of our mixnode on the same VPS
+* Create a clone of our mixnode on the same VPS;
     * It could be done with 2 different VPSes as well in a more simple but more
-    expensive manner
-* We will run both of them simultaneously on different ports while updating
+    expensive manner. On this guide we'll be using only 1 VPS as it is the
+    most common case.
+* We will run both of them simultaneously on different ports while updating;
     * The clone will have the new version of the binary while the
-original will have the outdated version
+original will have the outdated version.
 * We will update the ports on the wallet to match the ports of the updated
-process, updating our mixnode
+process, updating our mixnode;
 * After the time interval of 1 hour we will shut down the
-original outdated mixnode process 
+original outdated mixnode process.
     * This time interval has not been thoroughly tested but it has never
-    resulted in routing score dropping while developing this method
+    resulted in routing score dropping while developing this method. On theory
+    it is believed that this time interval can be dropped to arround 10 minutes.
 
 ## Guide
 
@@ -305,7 +307,7 @@ Now you need to update your mixnode ports and version on the wallet, so that
 the updated mixnode starts receiving packets.
 
 In order to do this you need to open your wallet, click on Bonding and head to
-Node Settings: `Bonding -> Node Settings`
+Node Settings: `Bonding -> Node Settings`.
 
 On the node settings page you will need to update the fields accordingly:
 
@@ -327,14 +329,16 @@ HTTP port = 8000
 Version = new mixnode version
 ```
 
-After this the updated mixnode will be the one receiving the packets
+After this the updated mixnode will be the one receiving the packets.
 
 #### Shut down outdated service
 
 **After waiting 1 hour** from when you updated the ports on the wallet you can
 shutdown the service that is running the outdated mixnode:
 > The time interval is not yet thoroughly tested, but 1 hour should be a safe
-interval for your routing score not to drop
+interval for your routing score not to drop. Further tests will be done to find
+the best time interval, it is believed that this will drop to arround 10
+minutes.
 
 For `<DEFAULT>` outdated.
 

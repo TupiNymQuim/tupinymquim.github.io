@@ -68,18 +68,20 @@ Em resumo, o que faremos para evitar a interrupção do processo do mixnode é:
 
 * Criar um clone do nosso mixnode no mesmo VPS
     * Isso também poderia ser feito com dois VPS diferentes de uma maneira mais
-    simples, porém mais cara
+    simples, porém mais cara. Nesse tutorial será utilizada somente um VPS, uma
+    vez que esse é o cenário mais comum.
 * Executaremos os dois simultaneamente em portas diferentes durante a
 atualização
     * O clone terá a nova versão do binário, enquanto o original terá a versão
-    desatualizada
+    desatualizada.
 * Atualizaremos as portas na wallet para corresponder às portas do processo
 atualizado, atualizando nosso mixnode
 * Após o intervalo de tempo de 1 hora, encerraremos o processo original
 desatualizado do mixnode
     * Esse intervalo de tempo não foi testado exaustivamente, mas nunca
     resultou na queda da pontuação de roteamento durante o desenvolvimento
-    desse método
+    desse método. Este intervalo de tempo está sendo textado e acredita-se que
+    ele deve chegar perto dos 10 minutos.
 
 ## Tutorial
 
@@ -341,7 +343,8 @@ Depois disso o mixnode atualizado estará recebendo os pacotes
 portas na wallet, você pode desligar o serviço que está executando o mixnode
 desatualizado:
 > O intervalo de tempo ainda não foi totalmente testado, mas 1 hora deve ser um
-intervalo seguro para que o seu routing score não caia
+intervalo seguro para que o seu routing score não caia. O intervalo está sendo
+testado e deve diminuir para em torno de 10 minutos.
 
 Para `<DEFAULT>` desatualizado.
 
