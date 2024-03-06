@@ -22,4 +22,4 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 
 ## Gateways
 
-[Gateway 1 - Australia] (https://explorer.nymtech.net/network-components/gateway/F5EAKxA2jQWHLQdmR7WDYpzYdVTZ8ymLjcERMW1wKSgC)
+[Gateway 1 - Australia](https://explorer.nymtech.net/network-components/gateway/F5EAKxA2jQWHLQdmR7WDYpzYdVTZ8ymLjcERMW1wKSgC)
