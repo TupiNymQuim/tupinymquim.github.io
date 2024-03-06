@@ -2,7 +2,7 @@
 layout: home
 permalink: /nodes/
 ---
-# MixNodes da TupiNymQuim
+# MixNodes e Gateways da TupiNymQuim
 
 Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o crescimento do ecossistema NYM, e por isso nossos membros operam nodes no mundo inteiro, dando ênfase nas regiões mais prioritárias, tornando o sistema mais descentralizado.
 
@@ -18,3 +18,8 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 [TupiNymQuim 5 - India](https://mixnet.explorers.guru/mixnode/4PP6FnME2EF9hgu4Teo4BJ3q4iNfGmuAzC4gFHFY2jnK)
 
 [TupiNymQuim 6 - Turquia](https://mixnet.explorers.guru/mixnode/EfX72q3f5o1rTRjEJQASyWwPnRChLrBH77xL2EUgUtBX)
+
+
+## Gateways
+
+[Gateway 1 - Australia] (https://explorer.nymtech.net/network-components/gateway/F5EAKxA2jQWHLQdmR7WDYpzYdVTZ8ymLjcERMW1wKSgC)
