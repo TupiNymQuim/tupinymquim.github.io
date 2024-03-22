@@ -22,4 +22,18 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 
 ## Gateways
 
-[Gateway 1 - Australia](https://explorer.nymtech.net/network-components/gateway/F5EAKxA2jQWHLQdmR7WDYpzYdVTZ8ymLjcERMW1wKSgC)
+[Gateway 1 - Austrália](https://explorer.nymtech.net/network-components/gateway/F5EAKxA2jQWHLQdmR7WDYpzYdVTZ8ymLjcERMW1wKSgC)
+
+[Gateway 2 - Espanha](https://explorer.nymtech.net/network-components/gateway/AG1jucgspds2xXJAftZHr7tqf3haPNjWLyRsn9NzfWje)
+
+[Gateway 3 - Brasil](https://explorer.nymtech.net/network-components/gateway/49PcvZKw3UHa3w88xCKKCshFWz139mPMx7ZEX2Wg9jqk)
+
+[Gateway 4 - Itália](https://explorer.nymtech.net/network-components/gateway/DgD7K1RHn7kMPC3ibg6HkJFkDqaFstxpEFHgronRdCqj)
+
+[Gateway 5 - Noruega](https://explorer.nymtech.net/network-components/gateway/8R9CjJsfWbAmisHcarJYLrvTdkW1D4CLyy3iAY89j5QF)
+
+[Gateway 6 - Singapura](https://explorer.nymtech.net/network-components/gateway/Eb15FTXQgnenwLmqdfCQNj6PmKjMszrmHhtXqKKRafMW)
+
+[Gateway 7 - Bélgica](https://explorer.nymtech.net/network-components/gateway/5P8MmJTdmoS4rhV8VHArABkyPE3M9RMrZsiX3qYkJ6u)
+
+[Gateway 8 - África do Sul](https://explorer.nymtech.net/network-components/gateway/FGQXnYX5JFEA71ZUUNU2JkrLYpbjraYthQvnTgVKvXVX)
