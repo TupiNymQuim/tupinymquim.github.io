@@ -26,11 +26,20 @@ layout: home
 <img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/feb04192-b947-456f-b3ae-46bf987f56d7" width="300" height="250"/>
 
 Workshop com os Desenvolvedores da universidade 42 Rio
-<br>
+<br><br>
 <img src="https://github.com/TupiNymQuim/tupinymquim.github.io/assets/95882160/5f8493d5-b595-420f-b7a4-e1c1cb97430a" width="300" height="250"/>
 <br>
-
 Privacy Day 28/11/2023
+
+<br><br>
+<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/blob/master/assets/images/ipv6_lecture.jpg?raw=true" width="300" height="400"/>
+<br>
+Palestra sobre IPv6 14/03/2024
+
+<br><br>
+<img src="https://github.com/TupiNymQuim/tupinymquim.github.io/blob/master/assets/images/unisuam.jpg?raw=true" width="300" height="250"/>
+<br>
+Palestra de privacidade na Unisuam 20/03/2024
 
 ## Tools
 
