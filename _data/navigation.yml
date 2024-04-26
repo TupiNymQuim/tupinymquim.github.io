@@ -3,13 +3,11 @@ main:
     url: /pt
   - title: "EN"
     url: /
-  - title: "Quizzes"
-    url: /quizzes/
   - title: "Contribuições"
     url: /contribuicoes/
   - title: "Docs"
     url: /docs/
-  - title: "Nodes"
+  - title: "Infra"
     url: /nodes/
   #- title: "Tags"
   #  url: /tags/
