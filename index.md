@@ -36,8 +36,8 @@ Furthermore, we're committed to bridging the information gap by crafting compreh
   <li>itsmevittin</li>
   <li>Psydenst</li>
   <li>pedroarnaldo</li>
-  <li>ukinaa</li>
   <li>supermeia</li>
+  <li>EduardaDT</li>
 </ul>
 
-## Reach us [here](https://t.me/+jO97cIbMEbowZWRh)
+## Reach us [here](https://t.me/tupinymquim)
