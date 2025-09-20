@@ -28,10 +28,14 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 
 [Supermeia 4 - Australia](https://explorer.nym.spectredao.net/nodes/AG1jucgspds2xXJAftZHr7tqf3haPNjWLyRsn9NzfWje)
 
-[Supermeia 5 - Brazil](https://explorer.nym.spectredao.net/nodes/7q8VWZNc5E1S2XDxj5mFpF3LfpHtUzEMDU66AuaD8FeB)
+[Supermeia 5 - USA](https://explorer.nym.spectredao.net/nodes/7q8VWZNc5E1S2XDxj5mFpF3LfpHtUzEMDU66AuaD8FeB)
 
-[Supermeia 6 - Brazil](https://explorer.nym.spectredao.net/nodes/4PP6FnME2EF9hgu4Teo4BJ3q4iNfGmuAzC4gFHFY2jnK)
+[Supermeia 6 - USA](https://explorer.nym.spectredao.net/nodes/4PP6FnME2EF9hgu4Teo4BJ3q4iNfGmuAzC4gFHFY2jnK)
 
 [Supermeia 7 - Hungary](https://explorer.nym.spectredao.net/nodes/GkXyxJpSSSawiaykgz76sk7QozuibG9dGvUMXjcxSU9U)
 
 [Supermeia 8 - Kazakhstan](https://explorer.nym.spectredao.net/nodes/3t83YJsoV8MefmBr7Ntc9H4DN4qvtP8BQjuqYKGQAjyW)
+
+[Supermeia 9 - USA](https://explorer.nym.spectredao.net/nodes/66d8wPAhpyCwb27wPjo6kQQjWXW5gskYD6h4Bfzdyb4n)
+
+[Supermeia 10 - USA](https://explorer.nym.spectredao.net/nodes/FjpATp639kTB3i1iruAsvmKcJ4gwBawGMbjahf3gDPig)
