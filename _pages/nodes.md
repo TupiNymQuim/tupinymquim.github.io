@@ -39,3 +39,5 @@ Bem vindo a nossa página de mixnodes, a TupiNymQuim tem como missão fomentar o
 [Supermeia 9 - USA](https://explorer.nym.spectredao.net/nodes/66d8wPAhpyCwb27wPjo6kQQjWXW5gskYD6h4Bfzdyb4n)
 
 [Supermeia 10 - USA](https://explorer.nym.spectredao.net/nodes/FjpATp639kTB3i1iruAsvmKcJ4gwBawGMbjahf3gDPig)
+
+[Supermeia 11 - USA](https://explorer.nym.spectredao.net/nodes/3NN34eywXEK73Kr88HTcQVFKiemftongvSpkT1gSGqiF)
